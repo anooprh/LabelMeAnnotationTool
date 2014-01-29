@@ -1,2 +1,4 @@
 *~
 annotationTools/perl/globalvariables.pl
+annotationCache/*
+.idea/*
